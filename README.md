@@ -6,3 +6,4 @@ Love programming and making music!
 - Assembly
 
 ![](https://www.codewars.com/users/dastanmedetbekov/badges/large)
+![](/pictures/stats.png)
